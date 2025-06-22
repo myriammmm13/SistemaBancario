@@ -1,5 +1,4 @@
-//estoy probando que esto sirve xdd
-int main(){
+int main (){
     std::cout<<"Hello World";
     return 0;
 }
